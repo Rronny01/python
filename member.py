@@ -1,2 +1,2 @@
-print('member clup')
+print('member club')
 print('member User')
